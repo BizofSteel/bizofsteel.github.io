@@ -2,7 +2,7 @@
 
 
 
-<iframe align="center" width="900" height="506" src="https://www.youtube.com/embed/IvxjohsHkxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe align="center" width="640" height="360" src="https://www.youtube.com/embed/IvxjohsHkxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
