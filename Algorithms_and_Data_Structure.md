@@ -7,7 +7,7 @@ For our _CS499 Computer Science Capstone_ course we were asked to select artifac
 I have chosen to include this artifact in my ePortfolio because while the Python artifacts performing MongoDB CRUD services by themselves are not complicated, their existence and my ability to deploy them showcase my proficiency in Data Structures and Algorithms alone. Working with databases requires a unique understanding of data structures which include lists, trees, and hash tables, among others.  To effectively run these services, one must understand how data structures work.  To enhance these artifacts, I have consolidated into one to provide a more user-friendly solution to the customer.   Consolidating them, and thus enhancing the python automation to be more efficient to the user, further shows my proficiency in creating Algorithms and Data Structures that successfully define a sequence of operations for usability and functionality that increase the customer experience.  
 
 
-## Process of Enhancing Artifact.
+## _Process of Enhancing Artifact_
 
 The Create, Read, Update, and Delete (or CRUD) artifacts were created individually as python files to perform their respective services.  
 Their Basic structure can be seen in Figure 1, and a sumplified pseudocode is as follows:
