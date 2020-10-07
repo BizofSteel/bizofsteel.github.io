@@ -38,8 +38,9 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 **Bismark J. Aldana ePorfolio Links**<br>
-* [ePortfolio Home](https://bizofsteel.github.io)<br>
+* [ePortfolio Homepage](https://bizofsteel.github.io)<br>
 * [Refinement Plan & Code Review](https://bizofsteel.github.io/Code_Review.html)<br>
 * [Software Engineering and Design - Enhancement One](https://bizofsteel.github.io/Software_Engineering_and_Design.html)<br>
 * [Algorithms and Data Structures - Enhancement Two](https://bizofsteel.github.io/Algorithms_and_Data_Structure.html)<br>
 * [Databases - Enhancement Three](https://bizofsteel.github.io/Databases.html)
+
