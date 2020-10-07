@@ -38,6 +38,9 @@ The side by side comparison below shows the success in this enhancement.  Pixila
    ![Figure 6](https://bizofsteel.github.io/Artifact%201%20-%20Fig%206.png) 
 
 
+## Enhanced Artifact - Software Design and Engineering 
+
+[Software Design and Engineering - Listerine Bottle Enhanced Artifact (CPP File)](https://bizofsteel.github.io/ListerineOPENGL-SoftwareDesign_and_Engineering(BAldana).cpp)
 
 
 **Bismark J. Aldana ePorfolio Links**<br>
