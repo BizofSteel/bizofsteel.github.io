@@ -47,9 +47,10 @@ For the Database proficiency I also plan to use my CS 340 Final Project as my ar
 
 
 
+
 **Bismark J. Aldana ePorfolio Links**<br>
 * [ePortfolio Homepage](https://bizofsteel.github.io)<br>
 * [Refinement Plan & Code Review](https://bizofsteel.github.io/Code_Review.html)<br>
-* [Software Engineering and Design - Enhancement One](https://bizofsteel.github.io/Software_Engineering_and_Design.html)<br>
+* [Software Engineering and Design - Enhancement One](https://bizofsteel.github.io/Software_Design_and_Engineering.html)<br>
 * [Algorithms and Data Structures - Enhancement Two](https://bizofsteel.github.io/Algorithms_and_Data_Structure.html)<br>
 * [Databases - Enhancement Three](https://bizofsteel.github.io/Databases.html)
