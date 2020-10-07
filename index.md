@@ -1,4 +1,5 @@
-# Bismark J. Aldama - Mechanical Engineer, Computer Science Engineer
+# Bismark J. Aldama
+### Mechanical Engineer, Computer Science Engineer
 
 ## _Introduction_
 
