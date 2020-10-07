@@ -13,13 +13,21 @@ To create this artifact, I had to start with a basic design of the profile of th
 
 As Seen in Figure 1, I created a basic sketch to determine the different cross sections that would be used as my vertices plane.  Each horizonal line in this figure represents one of these planes (Appendix A).  Next, I plotted vertex locations on different cross sections for the purpose of creating index connections from plane to plane and create rendering triangles (surfaces).   Once my points were created, I deployed my Vertex Array Objects to render the object.   As you can see in this figure, the original design used two arrays, one for the Cap, and another for the main body of the bottle and one container each, respectively. 
 
-![Figure 1](https://bizofsteel.github.io/Artifact%202%20-%20Fig%202.png) 
+These vertices were kept in containers that quickly ran out of memory and did not allow me to render the object.  To fix this problem, I simply decreased the number of indices and vertices deployed which pixelated my object.  
 
-These vertices were kept in containers that quickly ran out of memory and did not allow me to render the object.  To fix this problem, I simply decreased the number of indices and vertices deployed which pixelated my object.  As seen in Figure 2 shown in polygon mode, I was only able to achieve 36 triangles per revolution.  The purpose of the artifact was not to create high resolution renderings but to render successfully.  And while I met the requirements, I was left dissatisfied with the level of resolution of my object.  The enhancements that I now showcase herein shows my growth in engineering and executing work arounds to the container memory limitation, specifically those I was challenged with on my first time around. 
+![Figure 2](https://bizofsteel.github.io/Artifact%201%20-%20Fig%202.png) 
+
+As seen in Figure 2 shown in polygon mode, I was only able to achieve 36 triangles per revolution.  The purpose of the artifact was not to create high resolution renderings but to render successfully.  And while I met the requirements, I was left dissatisfied with the level of resolution of my object.  The enhancements that I now showcase herein shows my growth in engineering and executing work arounds to the container memory limitation, specifically those I was challenged with on my first time around. 
  
-To enhance the artifact, I began with the re-plotting of the vertex planes.   Figure 3 shows the original cross-section (top) with plotted indices.  Notice that the new cross-section (bottom) has doubled the number of indices that will be used.  To handle the new memory requirements, the new data would have to be strategically distributed between different containers and efficient memory allocation. To enhance this capability, I increased the number of Vertex Array Objects from the original two (Figure 1) to a total of five as shown on figure 5. 
+To enhance the artifact, I began with the re-plotting of the vertex planes.   
 
-The new architecture is not only more efficient but also successful in deploying and rendering a total of 72 triangle per revolution which not only increases resolution but also helps with buffering.  The enhancement also consolidates an index call out as I have been able to consolidate “like” features into one container.   Specifically, the feature created by the TOP and BOT VAO’s are the same so the “bottleBumpIndices” is one container called upon respectively as shown on Figure 6.  This approach allows for ease of scaling, repeatability and increases efficiency in maintenance and sustainability of the code.
+![Figure 3](https://bizofsteel.github.io/Artifact%201%20-%20Fig%203.png) 
+
+Figure 3 shows the original cross-section (top) with plotted indices.  Notice that the new cross-section (bottom) has doubled the number of indices that will be used.  To handle the new memory requirements, the new data would have to be strategically distributed between different containers and efficient memory allocation. To enhance this capability, I increased the number of Vertex Array Objects from the original two (Figure 1) to a total of five as shown on Figure 4. 
+
+![Figure 4](https://bizofsteel.github.io/Artifact%201%20-%20Fig%204.png) 
+
+The new architecture is not only more efficient but also successful in deploying and rendering a total of 72 triangle per revolution which not only increases resolution but also helps with buffering.  The enhancement also consolidates an index call out as I have been able to consolidate “like” features into one container.   Specifically, the feature created by the TOP and BOT VAO’s are the same so the “bottleBumpIndices” is one container called upon respectively as shown on Figure 5.  This approach allows for ease of scaling, repeatability and increases efficiency in maintenance and sustainability of the code.
 
 
 
