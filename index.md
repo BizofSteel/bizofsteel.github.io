@@ -1,9 +1,6 @@
-# Bismark J. Aldama
-### Mechanical Engineer, Computer Science Engineer
+# _Introduction_
 
-## _Introduction_
-
-## _Self Assessment_
+# _Self Assessment_
 
 
 **Bismark J. Aldana ePorfolio Links**<br>
