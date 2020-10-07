@@ -1,6 +1,6 @@
 # Code Review and Plan for Artifact Enhancement
 
-### _Aldana Code Review_
+## _Aldana Code Review_
 
 As my Code Review I created a screencast of how my artifacts work and the thinking that went into creating them.  I explain how I will be enhancing my current artifacts by providing explanations during the presentation of my artifacts. 
 
