@@ -1,12 +1,12 @@
 # Software Design and Engineering 
 
-## The Artifact
+## _The Artifact_
 For our _CS499 Computer Science Capstone_ course we were asked to select artifacts from previous experience for the purpose of expanding them in complexity to showcase our proficiency in the categories of Software Engineering and Design, Algorithms and Data structures, and Databases.  In this section I will be presenting my proficiency in Software Engineering and Design by expanding the complexity of an artifact from my CS 330: Computational Graphics and Visualization course.   The artifact itself is a model of a Listerine bottle that includes the use of different textures, lighting techniques, and rendering which was coded in C++ using OpenGL.
 
-## Inclusion of Artifact in ePortfolio
+## _Inclusion of Artifact in ePortfolio_
 I have chosen to include this artifact in my ePortfolio because the coding architecture of working with OpenGL and computational graphics is complex and showcases my understanding designing such a product.  To expand an artifact of this sort, one must have the ability to plan, design and plot vertices in 3D space, and engineer indices from those vertex points.  One must also understand how to work with OpenGL which includes being proficient with memory allocation, Buffers (specifically Vertex Buffer Object and Vertex Array Object), and software engineering to successfully render an image.  I chose to increase the complexity of this artifact because at the time when I took the course, I did not get a chance to really tap into the power of OpenGL.  I spent too much time learning the basics of this software.  Interestingly, while going through the course I learned how to implement more complexities like using multiple containers for memory management and different buffering techniques to get better results.  To improve my artifact, I did just this.  I designed and plotted new vertices to decrease pixilation through the curves of the bottle, deployed new Vertex Array Object to handle the increase in memory use, and consolidated software through strategic planning.
 
-## Process of Enhancing Artifact
+## _Process of Enhancing Artifact_
 To create this artifact, I had to start with a basic design of the profile of the Bottle.  
 
    ![Figure 1](https://bizofsteel.github.io/Artifact%201%20-%20Fig%201.png) 
@@ -32,12 +32,15 @@ The new architecture is not only more efficient but also successful in deploying
    ![Figure 5](https://bizofsteel.github.io/Artifact%201%20-%20Fig%205.png) 
 
 
-## Course Objectives - Enhancement 
+## _Course Objectives - Enhancement_ 
 The side by side comparison below shows the success in this enhancement.  Pixilation is less evident upon inspection and with a brief code review one will notice the difference in Array and Buffer strategy as well as overall design structure of the software.  By enhancing this artifact through all of these methods, I show competency in complex software deployment, software management, memory allocation, buffers, OpenGL, complex design, and software engineering thus meeting the first proficiency of this project; Software Engineering and Design.
 
    ![Figure 6](https://bizofsteel.github.io/Artifact%201%20-%20Fig%206.png) 
 
 
+## _Enhanced Artifact - Software Design and Engineering_ 
+
+[Software Design and Engineering - Listerine Bottle Enhanced Artifact (CPP File)](https://bizofsteel.github.io/ListerineOPENGL-SoftwareDesign_and_Engineering(BAldana).cpp)
 
 
 **Bismark J. Aldana ePorfolio Links**<br>
