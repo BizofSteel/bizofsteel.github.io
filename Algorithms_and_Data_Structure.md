@@ -84,6 +84,9 @@ Further, when selecting option 5 for the “Aggregation Pipeline”, the artifac
 ## _Course Objectives - Enhancement_ 
 During my code review it was very evident that while the services did work as intended and were true to the design requirements, they needed some enhancement.  By enhancing this artifact through a consolidating algorithm, I have facilitated Create, Read, Update, and Delete functionality to a massive data structure (or database in this case) and removing the tedious method of continually running separate python files for those services.  I have also enhanced the python automation to be more efficient to the user which further shows my proficiency in creating Algorithms and Data Structures that successfully define a sequence of operations for usability and functionality that increase the customer experience.  
 
+## _Enhanced Artifact - Algorithms and Data Structures_
+
+[Software Design and Engineering - Listerine Bottle Enhanced Artifact (CPP File)](https://bizofsteel.github.io/MongoDBCRUD-Algorithms_and_DataStructure(BAldana).py)
 
 
 **Bismark J. Aldana ePorfolio Links**<br>
