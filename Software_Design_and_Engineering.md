@@ -9,9 +9,11 @@ I have chosen to include this artifact in my ePortfolio because the coding archi
 ## Process of Enhancing Artifact
 To create this artifact, I had to start with a basic design of the profile of the Bottle.  
 
-![Figure 1](https://bizofsteel.github.io/Artifact%201%20-%20Fig%201.png = 250x250) 
+![Figure 1](https://bizofsteel.github.io/Artifact%201%20-%20Fig%201.png) 
 
 As Seen in Figure 1, I created a basic sketch to determine the different cross sections that would be used as my vertices plane.  Each horizonal line in this figure represents one of these planes (Appendix A).  Next, I plotted vertex locations on different cross sections for the purpose of creating index connections from plane to plane and create rendering triangles (surfaces).   Once my points were created, I deployed my Vertex Array Objects to render the object.   As you can see in this figure, the original design used two arrays, one for the Cap, and another for the main body of the bottle and one container each, respectively. 
+
+![Figure 1](https://bizofsteel.github.io/Artifact%202%20-%20Fig%202.png) 
 
 These vertices were kept in containers that quickly ran out of memory and did not allow me to render the object.  To fix this problem, I simply decreased the number of indices and vertices deployed which pixelated my object.  As seen in Figure 2 shown in polygon mode, I was only able to achieve 36 triangles per revolution.  The purpose of the artifact was not to create high resolution renderings but to render successfully.  And while I met the requirements, I was left dissatisfied with the level of resolution of my object.  The enhancements that I now showcase herein shows my growth in engineering and executing work arounds to the container memory limitation, specifically those I was challenged with on my first time around. 
  
