@@ -234,3 +234,7 @@ def main():
 if __name__ == '__main__':
 	main()
 ```
+
+## _Enhanced Artifact - Algorithms and Data Structures Repository_
+
+[Artifact Two Repository](https://github.com/BizofSteel/Algorithms_and_DataStructures)<br>
