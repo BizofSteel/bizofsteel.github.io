@@ -1,6 +1,9 @@
-#### Contents:
-|[ePortfolio Homepage](https://bizofsteel.github.io)<br>|[Code Review](https://bizofsteel.github.io/Code_Review.html)<br>|[Software Design and Engineering](https://bizofsteel.github.io/Software_Design_and_Engineering.html)<br> |[Algorithms and Data Structures](https://bizofsteel.github.io/Algorithms_and_Data_Structure.html)<br>|[Databases](https://bizofsteel.github.io/Databases.html)|
-|:-------------|:------------------|:------|:------|:------|
+#### Move Around:
+| [ePortfolio Homepage](https://bizofsteel.github.io)<br>
+| [Code Review](https://bizofsteel.github.io/Code_Review.html)<br>
+| [Software Design and Engineering](https://bizofsteel.github.io/Software_Design_and_Engineering.html)<br> 
+| [Algorithms and Data Structures](https://bizofsteel.github.io/Algorithms_and_Data_Structure.html)<br>
+| [Databases](https://bizofsteel.github.io/Databases.html)<br>
 
 
 # Databases
@@ -16,7 +19,7 @@ I have chosen to include this artifact in my ePortfolio because as a final proje
 ## _Process of Enhancing Artifact_ 
 One of the issues with the Python Services that I created originally was that there was one python file for every service.  One must call the respective service, python file every time to get that service; this was no different for the basic aggregations that I created for the course.  During my enhancement for the proficiency in Data Structures and Algorithms, I consolidated all CRUD functionality into one intuitive solution that performs the desired functionality while helping the user along with their activities.   At the same time, I created place holders for the Pipeline Aggregations that I would create for this section.  It is highlighted in red in the following pseudocode:
 
-
+```Markdown
 CLASS Create
 METHOD Create MongoDB
 RETURN
@@ -52,7 +55,7 @@ ELSEIF PIPELINE 4
 AGGREGATE PIPELINE 4
 ELSE Repeat Service
 	END WHILE
-
+```
 
 When calling the artifact to start the service, you will be prompted you for the services available.   Selecting Option 5 initiates the aggregation pipeline service module.   In this section you will have 4 options for aggregation pipelines.  (Figure 1) 
 
