@@ -2161,3 +2161,7 @@ void initCamera()
 }
 
 ```
+
+## _Enhanced Artifact - Software Design and Engineering Repository_ 
+
+[Artifact One Repository](https://github.com/BizofSteel/SoftwareDesign_and_Engineering)<br>
