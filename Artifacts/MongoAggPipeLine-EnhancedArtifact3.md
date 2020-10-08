@@ -9,7 +9,7 @@
 # _Enhanced Artifact 3 - Databases_
 MongoDCRUDPipeLine - Enhanced Artifact 3(BAldana)
 
-```js
+```
 #!/usr/bin/python
 import json
 from bson import json_util
