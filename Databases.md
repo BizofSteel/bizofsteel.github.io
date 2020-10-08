@@ -91,7 +91,7 @@ Once a choice is made, in the case “Country”, the user is asked to select th
 ## _Course Objectives - Enhancement_ 
 By enhancing this artifact to include automated pipelines, I have facilitated enhanced Database queries that not only make the User feel at ease to run them, but also allows for simple scaling.   For example, running a pipeline within a pipeline to display available options makes the maintenance of those aggregations almost not necessary which makes scalability simple. Furthermore, adding options to all of the available aggregations is straight forward.   By automating enhanced data queries and taking into account not only scalability but also ease of use, I have showcased in proficiency in Database expertise.  
 
-## _Enhanced Artifact - Algorithms and Data Structures_
+## _Enhanced Artifact - Databases_
 
 [Databases - Enhanced Artifact Three](https://bizofsteel.github.io/Artifacts/MongoAggPipeLine-EnhancedArtifact3.html)<br>
 [Artifact Three Repository](https://github.com/BizofSteel/Databases)<br>
