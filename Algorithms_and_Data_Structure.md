@@ -93,10 +93,8 @@ During my code review it was very evident that while the services did work as in
 
 ## _Enhanced Artifact - Algorithms and Data Structures_
 
-
-*  [Algorithm and Data Structures - Enhanced Artifact Two](https://bizofsteel.github.io/Artifacts/MongoCRUD-EnhancedArtifact2.html)<br>
-
-*  [Artifact Two Repository](https://github.com/BizofSteel/Algorithms_and_DataStructures)<br>
+[Algorithm and Data Structures - Enhanced Artifact Two](https://bizofsteel.github.io/Artifacts/MongoCRUD-EnhancedArtifact2.html)<br>
+[Artifact Two Repository](https://github.com/BizofSteel/Algorithms_and_DataStructures)<br>
 
 
 
