@@ -1,4 +1,8 @@
-# Software Design and Engineering 
+#### Contents:
+|[ePortfolio Homepage](https://bizofsteel.github.io)<br>|[Code Review](https://bizofsteel.github.io/Code_Review.html)<br>|[Software Design and Engineering](https://bizofsteel.github.io/Software_Design_and_Engineering.html)<br> |[Algorithms and Data Structures](https://bizofsteel.github.io/Algorithms_and_Data_Structure.html)<br>|[Databases](https://bizofsteel.github.io/Databases.html)|
+|:-------------|:------------------|:------|:------|:------|
+
+Software Design and Engineering 
 
 ## _The Artifact_
 For our _CS499 Computer Science Capstone_ course we were asked to select artifacts from previous experience for the purpose of expanding them in complexity to showcase our proficiency in the categories of Software Engineering and Design, Algorithms and Data structures, and Databases.  In this section I will be presenting my proficiency in Software Engineering and Design by expanding the complexity of an artifact from my CS 330: Computational Graphics and Visualization course.   The artifact itself is a model of a Listerine bottle that includes the use of different textures, lighting techniques, and rendering which was coded in C++ using OpenGL.
