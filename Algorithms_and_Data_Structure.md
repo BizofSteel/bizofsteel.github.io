@@ -27,7 +27,7 @@ CLASS Main
 	OBTAIN Information
 	CALL Service
 ```
-   ![Figure 1](https://bizofsteel.github.io/Artifact%202%20-%20Fig%201.png) 
+   ![Figure 1](https://bizofsteel.github.io/images/Artifact%202%20-%20Fig%201.png) 
 
 
 One of the issues with the Python Services is that for every function, one must run the respective python file.  Calling the python files for every service is very inefficient so to enhance this automation through python, we must plan an algorithm and data structure that not only allows for multiple selections of CRUD functionality to be available but to also be presented as an intuitive solution that performs the desired functionality while helping the user along with their activities.  Therefore, to enhance the artifact, the following structure was followed:
@@ -72,20 +72,20 @@ CLASS Main
 ```
 When calling the artifact to start the service, the python file will now display and prompt the user with the services available.  You may now select from Six (6) options.  Options 1 – 4 are for the CRUD services respectivley, 5 is for the aggregation pipeline that is a placeholder for the enhancements that occured during the “Database” section of my CS-499 Final Project, and 6 to exit the program (Figure 2).
 
-   ![Figure 2](https://bizofsteel.github.io/Artifact%202%20-%20Fig%202.png) 
+   ![Figure 2](https://bizofsteel.github.io/images/Artifact%202%20-%20Fig%202.png) 
 
 
 In Figure 3, I have called a create and inputted a document in JSON notation.  When a service is called and performed, the service will advise if it was performed successfully, and the loop will prompt the user to enter the next service required as seen below. 
 
-   ![Figure 3](https://bizofsteel.github.io/Artifact%202%20-%20Fig%203.png) 
+   ![Figure 3](https://bizofsteel.github.io/images/Artifact%202%20-%20Fig%203.png) 
 
 The service file will continue to repeat these options until the user selects to exit the program or an exception occurs.   Next, when updating a document I have included functionality that not only updates the document, but also returns the updated document so that the user does not have to run a succeeding read command to make sure the update occurs.  Figure 4 shows the user being prompted to enter the document that needs to be updates, to enter the data in the document to be updated, and then displays the document with the update.
 
-   ![Figure 4](https://bizofsteel.github.io/Artifact%202%20-%20Fig%204.png) 
+   ![Figure 4](https://bizofsteel.github.io/images/Artifact%202%20-%20Fig%204.png) 
 
 Further, when selecting option 5 for the “Aggregation Pipeline”, the artifact will now prompt the user to choose which pipeline they would like to run.  Once the pipeline is chosen, it will run the aggregation and return to the main options prompt to continue the service (Figure 5).  The pipeline option is only a place holder right now as these pipelines will be created for the “Database” proficiency portion of this final.  
 
-   ![Figure 5](https://bizofsteel.github.io/Artifact%202%20-%20Fig%205.png) 
+   ![Figure 5](https://bizofsteel.github.io/images/Artifact%202%20-%20Fig%205.png) 
 
 
 ## _Course Objectives - Enhancement_ 
