@@ -94,9 +94,9 @@ During my code review it was very evident that while the services did work as in
 ## _Enhanced Artifact - Algorithms and Data Structures_
 
 
-[Algorithms and Data Structures - MongoDB CRUD (Python File Direct Link)](https://bizofsteel.github.io/MongoDBCRUD-Algorithms_and_DataStructure(BAldana).py)
+*  [Algorithm and Data Structures - Enhanced Artifact Two](https://bizofsteel.github.io/Artifacts/MongoCRUD-EnhancedArtifact2.html)<br>
 
-[Algorithms and Data Structures - Artifact Two Repository](https://github.com/BizofSteel/Algorithms_and_DataStructures)
+*  [Artifact Two Repository](https://github.com/BizofSteel/Algorithms_and_DataStructures)<br>
 
 
 
