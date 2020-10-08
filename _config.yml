@@ -1,7 +1,4 @@
+theme: jekyll-theme-architect
+title: Bismark J. Aldana
+description: ePortfolio - Computer Science Professional
 
-#theme: jekyll-theme-architect
-theme: Bismark J. Aldana
-title: ePortfolio - Computer Science Professional
-
-markdown: kramdown
-theme: minima
