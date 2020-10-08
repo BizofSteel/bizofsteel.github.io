@@ -236,7 +236,7 @@ if __name__ == '__main__':
 
 ```
 
-## _Enhanced Artifact - Algorithms and Data Structures_
+## _Enhanced Artifact - Databases_
 
 [Artifact Three Repository](https://github.com/BizofSteel/Databases)<br>
 
