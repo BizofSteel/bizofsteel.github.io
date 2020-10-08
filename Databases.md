@@ -1,4 +1,4 @@
-#### Move Around:
+#### _Move Around:_
 | [ePortfolio Homepage](https://bizofsteel.github.io)<br>
 | [Code Review](https://bizofsteel.github.io/Code_Review.html)<br>
 | [Software Design and Engineering](https://bizofsteel.github.io/Software_Design_and_Engineering.html)<br> 
@@ -21,39 +21,39 @@ One of the issues with the Python Services that I created originally was that th
 
 ```Markdown
 CLASS Create
-METHOD Create MongoDB
-RETURN
+	METHOD Create MongoDB
+	RETURN
 CLASS Read
-METHOD Read MongoDB
-RETURN
+	METHOD Read MongoDB
+	RETURN
 CLASS Update
-METHOD Update MongoDB
-RETURN
+	METHOD Update MongoDB
+	RETURN
 CLASS Delete
-METHOD Delete MongoDB
-RETURN
+	METHOD Delete MongoDB
+	RETURN
 CLASS Main
-WHILE Condition
-OBTAIN Service Desired
-IF Service CREATE
-CALL CLASS Create
-ELSEIF Service READ
-CALL CLASS Read
-ELSEIF Service UPDATE
-CALL CLASS Update
-ELSEIF Service DELETE
-CALL CLASS Delete
-ELSEIF Service PIPELINE
-OBTAIN PIPELINE TYPE
-IF PIPELINE 1
-AGGREGATE PIPELINE 1
-ELSEIF PIPELINE 2
-AGGREGATE PIPELINE 2
-ELSEIF PIPELINE 3
-AGGREGATE PIPELINE 3
-ELSEIF PIPELINE 4
-AGGREGATE PIPELINE 4
-ELSE Repeat Service
+	WHILE Condition
+	OBTAIN Service Desired
+		IF Service CREATE
+			CALL CLASS Create
+		ELSEIF Service READ
+			CALL CLASS Read
+		ELSEIF Service UPDATE
+			CALL CLASS Update
+		ELSEIF Service DELETE
+			CALL CLASS Delete
+		ELSEIF Service PIPELINE
+			OBTAIN PIPELINE TYPE
+				IF PIPELINE 1
+					AGGREGATE PIPELINE 1
+				ELSEIF PIPELINE 2
+					AGGREGATE PIPELINE 2
+				ELSEIF PIPELINE 3
+					AGGREGATE PIPELINE 3
+				ELSEIF PIPELINE 4
+					AGGREGATE PIPELINE 4
+				ELSE Repeat Service
 	END WHILE
 ```
 
