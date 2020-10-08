@@ -9,7 +9,7 @@
 # _Enhanced Artifact 2 - Algorithms and Data Structures_
 Filename: MongoDCRUD - Enhanced Artifact 2(BAldana)
 
-```js
+```
 #!/usr/bin/python
 import json
 from bson import json_util
