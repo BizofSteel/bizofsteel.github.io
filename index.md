@@ -6,15 +6,11 @@
 | [Databases](https://bizofsteel.github.io/Databases.html)<br>
 
 
-# _Introduction_
+# _Professional Self Assessment_
 
-# _Self Assessment_
+"Some people can read War and Peace and come away thinking it's a simple adventure story. Others can read the ingredients on a chewing gum wrapper and unlock the secrets of the universe." - Alexander Joseph Luthor
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-
+My professional self assemessment serves as 
 
 **Bismark J. Aldana ePorfolio Contents**<br>
 > * [ePortfolio Homepage](https://bizofsteel.github.io)<br>
