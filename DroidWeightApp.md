@@ -9,7 +9,7 @@
 
 
 # Heavy Goal Tracker by: Aldana
-## Weight Tracker for Android
+## Weight Tracking Application for Android
 
 ### Requirement and Design Summary
 This weight tracking app is used to track the daily weight of a user and show progress.  The app is deployed with a database using the integrated SQLite functionality so that it can store login information, daily weight activity and goals.   It includes a log in screen with new user registration and password reset functionality to provide users with easy profile management.   Next the Main Activity (Home Screen) is a dashboard which includes a current weight display with relational target goal.  There are navigational buttons that allow the user to enter Current and Target weights with are recorded with Date/Time stamps.
