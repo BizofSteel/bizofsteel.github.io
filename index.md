@@ -37,6 +37,9 @@ Programming Concepts Final Project which worked on automating MongoDB querying s
 
 For the Databases category, I also expanded my CS-340 Advanced Programming Concepts Final Project.  As an enhancement I added advanced concepts of MySQL which involved deploying sophisticated aggregation pipelines and querying techniques in MongoDB that will enhance mining for specific data.  I developed this functionality in a way that not only made the artifact scalable, but also increased repeatability, user experience and efficiency.  The skills in deploying these pipelines not only showcases my in depth understanding of working with databases but also solidifies my proficiency in Data Structures and Computer Science as a whole.  
 
+## Weight Tracker for Android
+This weight tracking app is used to track the daily weight of a user and show progress. The app is deployed with a database using the integrated SQLite functionality so that it can store login information, daily weight activity and goals. It includes a log in screen with new user registration and password reset functionality to provide users with easy profile management. Next the Main Activity (Home Screen) is a dashboard which includes a current weight display with relational target goal. There are navigational buttons that allow the user to enter Current and Target weights with are recorded with Date/Time stamps.
+
 ## _Peace of Mind_
 
 I grew a lot, as a person and as a professional, through my experiences in the Computer Science Program at Southern New Hampshire University.   
