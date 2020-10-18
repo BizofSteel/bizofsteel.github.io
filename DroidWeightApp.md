@@ -31,7 +31,6 @@ I feel like the development of the application was pretty straight forward.  Tha
 
 ## _Weight Tracker - Android App_
 
-[Weight Tracker Android App Repository - Zip File](https://bizofsteel.github.io/DroidWeightApp/CS-340%20Activity%207-2%20-%20Aldana%20(Weight%20Tracking).zip)<br>
 [Weight Tracker Android App Repository](https://github.com/BizofSteel/DroidWeightApp)<br>
 
 
