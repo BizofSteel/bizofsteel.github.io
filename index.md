@@ -1,9 +1,10 @@
-#### Move Around:
+#### _Move Around:_
 | [ePortfolio Homepage](https://bizofsteel.github.io)<br>
 | [Code Review](https://bizofsteel.github.io/Code_Review.html)<br>
 | [Software Design and Engineering](https://bizofsteel.github.io/Software_Design_and_Engineering.html)<br> 
 | [Algorithms and Data Structures](https://bizofsteel.github.io/Algorithms_and_Data_Structure.html)<br>
 | [Databases](https://bizofsteel.github.io/Databases.html)<br>
+| [Weight Tracker Android App](https://bizofsteel.github.io/DroidWeightApp.html)<br>
 
 
 # _Professional Self-Assessment_
@@ -36,6 +37,9 @@ Programming Concepts Final Project which worked on automating MongoDB querying s
 
 For the Databases category, I also expanded my CS-340 Advanced Programming Concepts Final Project.  As an enhancement I added advanced concepts of MySQL which involved deploying sophisticated aggregation pipelines and querying techniques in MongoDB that will enhance mining for specific data.  I developed this functionality in a way that not only made the artifact scalable, but also increased repeatability, user experience and efficiency.  The skills in deploying these pipelines not only showcases my in depth understanding of working with databases but also solidifies my proficiency in Data Structures and Computer Science as a whole.  
 
+## Weight Tracker for Android
+This weight tracking app is used to track the daily weight of a user and show progress. The app is deployed with a database using the integrated SQLite functionality so that it can store login information, daily weight activity and goals. It includes a log in screen with new user registration and password reset functionality to provide users with easy profile management. Next the Main Activity (Home Screen) is a dashboard which includes a current weight display with relational target goal. There are navigational buttons that allow the user to enter Current and Target weights with are recorded with Date/Time stamps.
+
 ## _Peace of Mind_
 
 I grew a lot, as a person and as a professional, through my experiences in the Computer Science Program at Southern New Hampshire University.   
@@ -49,10 +53,11 @@ A lot of what I have learned through this journey I have applied to life.  I am 
 "Some people can read War and Peace and come away thinking it's a simple adventure story. Others can read the ingredients on a chewing gum wrapper and unlock the secrets of the universe." - Alexander Joseph Luthor
 
 
-**Bismark J. Aldana ePorfolio Contents**<br>
-> * [ePortfolio Homepage](https://bizofsteel.github.io)<br>
-> * [Refinement Plan & Code Review](https://bizofsteel.github.io/Code_Review.html)<br>
-> * [Software Design and Engineering - Enhancement One](https://bizofsteel.github.io/Software_Design_and_Engineering.html)<br>
-> * [Algorithms and Data Structures - Enhancement Two](https://bizofsteel.github.io/Algorithms_and_Data_Structure.html)<br>
-> * [Databases - Enhancement Three](https://bizofsteel.github.io/Databases.html)
+**Bismark J. Aldana ePorfolio Links**<br>
+* [ePortfolio Homepage](https://bizofsteel.github.io)<br>
+* [Refinement Plan & Code Review](https://bizofsteel.github.io/Code_Review.html)<br>
+* [Software Design and Engineering - Enhancement One](https://bizofsteel.github.io/Software_Design_and_Engineering.html)<br>
+* [Algorithms and Data Structures - Enhancement Two](https://bizofsteel.github.io/Algorithms_and_Data_Structure.html)<br>
+* [Databases - Enhancement Three](https://bizofsteel.github.io/Databases.html)<br>
+* [Weight Tracker Android App](https://bizofsteel.github.io/DroidWeightApp.html)<br>
 

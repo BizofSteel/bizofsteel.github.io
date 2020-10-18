@@ -1,9 +1,11 @@
-#### Move Around:
+#### _Move Around:_
 | [ePortfolio Homepage](https://bizofsteel.github.io)<br>
 | [Code Review](https://bizofsteel.github.io/Code_Review.html)<br>
 | [Software Design and Engineering](https://bizofsteel.github.io/Software_Design_and_Engineering.html)<br> 
 | [Algorithms and Data Structures](https://bizofsteel.github.io/Algorithms_and_Data_Structure.html)<br>
 | [Databases](https://bizofsteel.github.io/Databases.html)<br>
+| [Weight Tracker Android App](https://bizofsteel.github.io/DroidWeightApp.html)<br>
+
 
 
 # Software Design and Engineering 
@@ -57,4 +59,5 @@ The side by side comparison below shows the success in this enhancement.  Pixila
 * [Refinement Plan & Code Review](https://bizofsteel.github.io/Code_Review.html)<br>
 * [Software Design and Engineering - Enhancement One](https://bizofsteel.github.io/Software_Design_and_Engineering.html)<br>
 * [Algorithms and Data Structures - Enhancement Two](https://bizofsteel.github.io/Algorithms_and_Data_Structure.html)<br>
-* [Databases - Enhancement Three](https://bizofsteel.github.io/Databases.html)
+* [Databases - Enhancement Three](https://bizofsteel.github.io/Databases.html)<br>
+* [Weight Tracker Android App](https://bizofsteel.github.io/DroidWeightApp.html)<br>
